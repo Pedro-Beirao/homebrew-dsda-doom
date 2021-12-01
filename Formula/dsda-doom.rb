@@ -3,7 +3,7 @@ class DsdaDoom < Formula
   homepage "https://github.com/kraflab/dsda-doom"
   url "https://github.com/kraflab/dsda-doom/archive/refs/tags/v0.22.2.tar.gz"
   license "GPL-2.0-only"
-  sha256 "77819c6b4045d281cfdce8c6d5ca558d7b3161121c20aea4cdacdcdd5804b0df"
+  sha256 "77274186218771835bf50927d5f00a6368850ae17dee3e8482702840240821ff"
   head "https://github.com/kraflab/dsda-doom"
 
   depends_on "autoconf" => :build
